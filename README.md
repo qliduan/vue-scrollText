@@ -1,6 +1,6 @@
 # scrollText （vue 2.0）
 垂直方向滚动的中奖消息通知（以前都是用js的setinterval或settimeout实现，这个组件是为了尝试用css3的animation动画实现而写的，所以只兼容支持css3的浏览器，浏览器前缀只针对webkit做了兼容）
-##运行效果图如下
+## 运行效果图如下
 ![运行效果图](https://github.com/qliduan/vue-scrollText/blob/master/result.gif)
 
 # Example
